@@ -1,0 +1,21 @@
+,ID,VSLA,Savings,Location,Capacity,Averageage,Activity,ActivityCU,Male,Female,RateofLending,Year,Shareouts,Division
+0,1,Muno,943000,Kamwyokya,30,33,Book making,5,12,18,Weekly,2018,1530691,NAKAWA
+1,2,Binusu,970900,Bukoto,34,40,Maize Flour selling,3,12,22,Monthly,2018,2600264,NAKAWA
+2,3,Zivamutunyo,3150800,Ntinda,31,38,Book making,5,7,24,Monthly,2018,4424193,NAKAWA
+3,4,Mazima,1916000,Kisenyi,34,31,Book making,5,10,21,Monthly,2018,2454538,NAKAWA
+4,5,Muda,3893700,Makindye,32,24,Mobile money,5,11,21,Monthly,2018,4369262,KAWEMPE
+5,6,Anbanked,2523200,Kamwokya,33,43,Book making,5,10,23,Daily,2018,3108414,KAWEMPE
+6,7,Women of the future,2621347,Ntinda,33,26,Mobile money,5,9,24,Weekly,2018,3350116,KAWEMPE
+7,8,Kanomukanasatu,2995593,Buziga,32,58,Silver fish selling,3,10,22,Weekly,2018,3034155,KAWEMPE
+8,9,Buwanguzi,3912192,Katwe,32,23,Book making,5,11,11,Daily,2018,4035032,RUBAGA
+9,10,Top Cops,3716612,Kamwokya,31,42,Book making,5,7,24,Daily,2018,4743793,RUBAGA
+10,11,Miti emito,1916747,Wakaliga,32,54,Maize Flour selling,3,7,25,Daily,2018,2476034,RUBAGA
+11,12,Kisa kyamukama,2902295,Nateete,30,33,Paper bag making,2,8,22,Daily,2018,3130765,RUBAGA
+12,13,Kwagalana,3916002,Ggaba,33,54,Mobile money,5,10,23,Weekly,2018,3492465,MAKINDYE
+13,14,Gakyaali,3369231,Mutundwe,31,22,Art and Craft,4,6,25,Weekly,2018,4359696,MAKINDYE
+14,15,Kwezimba,2914242,Bukoto,33,42,Mobile money,5,7,25,Monthly,2018,3916523,MAKINDYE
+15,16,Tuliwamu,3235007,Kamwokya,32,48,Mobile money,5,7,24,Monthly,2018,2344669,MAKINDYE
+16,17,Agali awamu,881326,Bukoto,33,30,Book making,5,10,23,Monthly,2018,1027837,CENTRAL
+17,18,Kamukamu,3067621,Wakaliga,32,43,Book making,5,6,26,Monthly,2018,4292945,CENTRAL
+18,19,Bisente,3366308,Kisenyi,31,57,Mobile money,5,6,26,Weekly,2018,3874975,CENTRAL
+19,20,Cash money,2896032,Kyengera,31,39,Mobile money,5,6,24,Weekly,2018,3956251,CENTRAL
